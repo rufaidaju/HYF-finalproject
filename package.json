@@ -1,0 +1,40 @@
+{
+  "name": "class02-final-project",
+  "version": "1.0.0",
+  "description": "After learning many of the skills required of a web developer, you will over the next six weeks consolidate those  lessons into a portfolio piece.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "gettext-parser": "^1.3.0",
+    "mysql": "^2.15.0",
+    "react": "^16.1.1",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.1.1",
+    "react-history": "^0.18.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:4000/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFuture-CPH/class02-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackYourFuture-CPH/class02-final-project/issues"
+  },
+  "homepage": "https://github.com/HackYourFuture-CPH/class02-final-project#readme"
+}

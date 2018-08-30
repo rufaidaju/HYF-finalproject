@@ -1,0 +1,102 @@
+msgid "fruit"
+msgstr "frugt"
+
+msgid "sweet"
+msgstr "sød"
+
+msgid "litres water"
+msgstr "liter vand"
+
+msgid "apple"
+msgstr "æble"
+
+msgid "banana"
+msgstr "banan"
+
+msgid "meat"
+msgstr "kød"
+
+msgid "protein"
+msgstr "protein"
+
+msgid "beef"
+msgstr "bøf"
+
+msgid "alcohol"
+msgstr "alkohol"
+
+msgid "beverage"
+msgstr "drik"
+
+msgid "beer"
+msgstr "øl"
+
+msgid "250ml glass"
+msgstr "250ml glas"
+
+msgid "carbohydrate"
+msgstr "kulhydrat"
+
+msgid "bread"
+msgstr "brød"
+
+msgid "fat"
+msgstr "fedt"
+
+msgid "butter"
+msgstr "smør"
+
+msgid "vegetable"
+msgstr "grøntsag"
+
+msgid "cabbage"
+msgstr "kål"
+
+msgid "cheese"
+msgstr "ost"
+
+msgid "chicken meat"
+msgstr "kylling"
+
+msgid "candy"
+msgstr "slik"
+
+msgid "chocolate"
+msgstr "chokolade"
+
+msgid "egg"
+msgstr "æg"
+
+msgid "milk"
+msgstr "mælk"
+
+msgid "olives"
+msgstr "oliven"
+
+msgid "pasta"
+msgstr "pasta"
+
+msgid "pizza"
+msgstr "pizza"
+
+msgid "pork"
+msgstr "svinekød"
+
+msgid "potatoes"
+msgstr "kartofler"
+
+msgid "rice"
+msgstr "ris"
+
+msgid "sheep meat"
+msgstr "lammekød"
+
+msgid "tea"
+msgstr "the"
+
+msgid "tomato"
+msgstr "tomat"
+
+msgid "wine"
+msgstr "vin"
+

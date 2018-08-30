@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="84px" viewBox="0 0 66 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Pin (selected)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-22.0%" y="-14.5%" width="152.0%" height="137.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Map-(selected)" transform="translate(-157.000000, -294.000000)">
+            <g id="Pin-(selected)" transform="translate(163.000000, 299.000000)">
+                <g id="Pin" stroke-width="1" stroke="#FFFFFF" fill-opacity="0.8" fill="#32DBB0">
+                    <g id="if_94_171453" filter="url(#filter-1)" stroke-width="2" fill-rule="nonzero">
+                        <path d="M49.743,24.7580855 C49.743,11.084309 38.6083388,0 24.8715,0 C11.1356389,0 0,11.084309 0,24.7580855 C0,30.7700302 2.15487493,36.2823645 5.73574129,40.5701159 L24.8930096,68.0843686 L44.3303922,40.1687655 C45.0284778,39.2990916 45.6679008,38.3824876 46.2447502,37.4189535 L46.4412701,37.1383504 L46.4090057,37.1383504 C48.5257499,33.4944217 49.743,29.2697327 49.743,24.7580855" id="Shape"></path>
+                    </g>
+                </g>
+                <circle id="Oval" fill="#FFFFFF" cx="25" cy="26" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
